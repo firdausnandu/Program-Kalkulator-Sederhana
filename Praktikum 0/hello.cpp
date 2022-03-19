@@ -6,5 +6,6 @@ int main()
 	cout<<"Universitas Ahmad Dahlan"<<endl;
 	cout<<"Nan"<<endl;
 	cout<<"coba lagiiiiii"<<endl;
+	cout<<"bismillah"<<endl;
 	return 0;
 }
