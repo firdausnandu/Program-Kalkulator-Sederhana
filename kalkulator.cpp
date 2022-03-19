@@ -22,5 +22,11 @@ int main(){
 			kurang=a-b;
 			cout<<"Hasil "<<a<<" - "<<b<<" adalah = "<<kurang;
 			break;
+		case 3:
+			cout<<"Masukan bilangan a: ";cin>>a;
+			cout<<"Masukan bilangan b: ";cin>>b;
+			kali=a*b;
+			cout<<"Hasil "<<a<<" * "<<b<<" adalah = "<<kali;
+			break;
 	}
 }
